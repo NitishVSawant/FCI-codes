@@ -1,4 +1,4 @@
-# FCI-codes
+# Food Corporation of India (FCI) Project
 
 Machine Learning models for decision making in food grain transportation planning undertaken by Food Corporation of India (FCI)
 
